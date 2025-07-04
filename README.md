@@ -1,4 +1,6 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+# Final-Project-Transforming-and-Analyzing-Data-with-
+
+:smile: hi, everyone!
 
 ## Project/Goals
 (fill in your description and goals here)
