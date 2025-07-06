@@ -23,3 +23,14 @@ ORDER BY channel_revenue DESC
 
 ![answer_4_1](./images/starting_with_data_q1.png)
 
+|channel_grouping|channel_revenue|
+|----------------|---------------|
+|Referral        |6018680000     |
+|Direct          |4704190000     |
+|Organic Search  |3163670000     |
+|Paid Search     |394770000      |
+|Affiliates      |0              |
+|Display         |0              |
+|(Other)         |0              |
+
+
