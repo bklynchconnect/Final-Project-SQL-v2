@@ -19,7 +19,7 @@ GROUP BY channel_grouping
 ORDER BY channel_revenue DESC
 ```
 
-### Answer
+### :heavy_check_mark: Answer
 
 ![answer_4_1](./images/starting_with_data_q1.png)
 
